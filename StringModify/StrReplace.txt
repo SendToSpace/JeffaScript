@@ -1,0 +1,8 @@
+parameter 
+beg,end,str,Newpatt,Oldpatt
+
+beg&end range of string index to perform operation
+
+Newpatt- new character or string to be replace
+
+Oldpatt- Old pattern to be replace

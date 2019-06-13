@@ -1,0 +1,4 @@
+edit the file parameter inside, in the text file end of line add a space
+
+
+Future update, support textfile with any formate
